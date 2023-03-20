@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App{
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+body{
+  background: linear-gradient(306deg, rgba(247,243,215,1) 0%, rgba(138,43,226,1) 100%); 
+}
+
+.card{
+  width: 400px;
+  padding: 50px;
+  background-color: #8a2be2;
+  border-radius: 10px;
+}
+
+.question{
+  width: 150px;
+  color: white;
+  text-align: center;
+}
+.answer{
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+button{
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  border: none;
+  color: blueviolet;
+  background-color: white;
+}
+
+button:hover{
+  background-color: transparent;
+  outline: 1px solid white;
+  color: white;
+}
