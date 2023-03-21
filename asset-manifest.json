@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zaktita/static/css/main.32db4255.css",
+    "main.js": "/zaktita/static/js/main.85135834.js",
+    "index.html": "/zaktita/index.html",
+    "main.32db4255.css.map": "/zaktita/static/css/main.32db4255.css.map",
+    "main.85135834.js.map": "/zaktita/static/js/main.85135834.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32db4255.css",
+    "static/js/main.85135834.js"
+  ]
+}
